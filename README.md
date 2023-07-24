@@ -1,11 +1,13 @@
 
 <h1>Hello there 👋 </h1>
+---
 <img align="center" alt="Banner" src="./Banner/github-header-image.png" />
 
 </br>
 
 
 <h2>Get In Touch</h2>
+---
 <p align="left">
  <a href="mailto:brandonws20@gmail.com">
          <img alt="Gmail" title="Contact Me" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
