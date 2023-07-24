@@ -1,13 +1,11 @@
 
 <h1>Hello there 👋 </h1>
----
 <img align="center" alt="Banner" src="./Banner/github-header-image.png" />
 
 </br>
 
 
 <h2>Get In Touch</h2>
----
 <p align="left">
  <a href="mailto:brandonws20@gmail.com">
          <img alt="Gmail" title="Contact Me" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -19,8 +17,8 @@
 </br>
 
 
-### 🧰 Languages and Tools
----
+<h2>🧰 Languages and Tools</h2>
+
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <!--<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />-->
 <!--<img align="left" alt="Go/Golang" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/go/go-original.svg" /> -->
