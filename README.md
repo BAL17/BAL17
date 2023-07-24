@@ -18,8 +18,7 @@
 
 
 ### 🧰 Languages and Tools
-
-
+---
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <!--<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />-->
 <!--<img align="left" alt="Go/Golang" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/go/go-original.svg" /> -->
@@ -40,7 +39,6 @@
 <br />
 
 ### 📊 Stats
-
 
 <!--![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bal17&show_icons=true&theme=transparent)-->
 
