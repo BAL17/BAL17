@@ -36,18 +36,13 @@
 
 <br />
 <br />
-<br />
 
 ### 📊 Stats
 
 <!--![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bal17&show_icons=true&theme=transparent)-->
-
-
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bal17&show_icons=true&theme=github_dark)
-
 <!--![GitHub Streak](https://streak-stats.demolab.com/?user=bal17&theme=gruvbox&border_radius=4.5) -->
 
-#
 
 <details>
  <summary><h3>👨‍💻 Brandon's Coding Journey</h3></summary>
