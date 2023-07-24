@@ -46,7 +46,7 @@
 
 <details>
  <summary><h3>👨‍💻 Brandon's Coding Journey</h3></summary>
-		*Still going...*
+		Still going...
  
 
 
