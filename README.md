@@ -2,8 +2,6 @@
 <h1>Hello there 👋 </h1>
 <img align="center" alt="Banner" src="./Banner/github-header-image.png" />
 
-</br>
-
 <h2>Get In Touch</h2>
 <p align="left">
  <a href="mailto:brandonws20@gmail.com">
@@ -12,8 +10,6 @@
 <a href="https://www.linkedin.com/in/brandonstegall817/">
          <img alt="Connect" title="Connect With Me" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
-</br>
 
 <h2>🧰 Languages and Tools</h2>
 
@@ -32,7 +28,6 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/gitlab/gitlab-original.svg" />
 
-</br>
 </br>
 </br>
 
