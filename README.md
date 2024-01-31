@@ -1,7 +1,5 @@
 
 <h1>Hello there 👋 </h1>
-<img align="center" alt="Banner" src="./Banner/github-header-image.png" />
-
 <h2>Get In Touch</h2>
 <p align="left">
  <a href="mailto:brandonws20@gmail.com">
